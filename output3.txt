@@ -1,0 +1,5 @@
+Amol Vaze, Net_Id:- asv130130@utdallas.edu
+s5: 10
+s4: 9
+s2: 5 6 7 8
+s1: 1 2 3 4
